@@ -1,5 +1,5 @@
 <h1> Chat App in Node js </h1>
-<p>This is simple chat web app made using socket.io with refrence of codewithHarry tutorials.We can chat with multiple user at a time with the help of it.It shows message whenever a new user joins or leaves the chat</p>
+<p>This is simple chat web app made using socket.io with refrence of codewithHarry tutorials.We can chat with multiple user at a time with the help of it.It shows message whenever a new user joins or leaves the chat.A sound of notification also peeps whenever a user sends a message.</p>
 <h3>Technolgy Stack:</h3>
 <ul>
 <li>HTML5</li>
