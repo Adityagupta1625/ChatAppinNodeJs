@@ -4,7 +4,7 @@
   "description": "This is node server for mychat",
   "main": "index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "author": "Aditya",
   "license": "ISC",
