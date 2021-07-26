@@ -11,4 +11,5 @@
 <h3>Installation:</h3>
 <p>You need to install node js in your pc first<br>
 Then you have to install the node modules and socket.io through npm<br>
+  you can clone it and use it using git clone: 
 </p>
